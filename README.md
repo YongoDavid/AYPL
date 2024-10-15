@@ -2,6 +2,9 @@
 This website was is being built for the the African youth leadership community.
 This website being built with REACT.
 
+Alot of changes still need to be made.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
