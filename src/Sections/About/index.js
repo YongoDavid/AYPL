@@ -66,7 +66,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              Listen to the cries of the common man
+              {/* Listen to the cries of the common man */}
               </Text>
             </AboutText>
           </Content>
@@ -76,7 +76,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-                To renew or rekindle Hope to the masses leaders needs to lead by example.
+                {/* To renew or rekindle Hope to the masses leaders needs to lead by example. */}
               </Text>
             </AboutText>
           </Content>
@@ -86,7 +86,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              Make positive policies targeted at addressing the ills in the society.
+              {/* Make positive policies targeted at addressing the ills in the society. */}
               </Text>
             </AboutText>
           </Content>
@@ -96,7 +96,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              Make positive policies targeted at addressing the ills in the society.
+              {/* Make positive policies targeted at addressing the ills in the society. */}
               </Text>
             </AboutText>
           </Content>
@@ -106,7 +106,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              Alleviate poverty in other to reduce crime.
+              {/* Alleviate poverty in other to reduce crime. */}
               </Text>
             </AboutText>
           </Content>
@@ -116,7 +116,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              Our leaders has to see themselves as humanitarian not as a VIP.
+              {/* Our leaders has to see themselves as humanitarian not as a VIP. */}
               </Text>
             </AboutText>
           </Content>
@@ -126,7 +126,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              Our leaders have to be accountable to the masses.
+              {/* Our leaders have to be accountable to the masses. */}
               </Text>
             </AboutText>
           </Content>
@@ -136,7 +136,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              Our leaders have to be responsible and selfless.
+              {/* Our leaders have to be responsible and selfless. */}
               </Text>
             </AboutText>
           </Content>
@@ -145,17 +145,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              Our leaders must be diplomatic in there approach.
-              </Text>
-            </AboutText>
-          </Content>
-        </div>
-
-        <div className="Section">
-          <Content>
-            <AboutText>
-              <Text>
-              As a leader your confidence comes from impact made while in position.
+              {/* Our leaders must be diplomatic in there approach. */}
               </Text>
             </AboutText>
           </Content>
@@ -165,7 +155,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              As a good leader you put the people first.
+              {/* As a leader your confidence comes from impact made while in position. */}
               </Text>
             </AboutText>
           </Content>
@@ -175,7 +165,7 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              As a leader you must be a wise and a good team player.
+              {/* As a good leader you put the people first. */}
               </Text>
             </AboutText>
           </Content>
@@ -185,7 +175,17 @@ const About = () => {
           <Content>
             <AboutText>
               <Text>
-              As a leader you must be Articulate and proactive.
+              {/* As a leader you must be a wise and a good team player. */}
+              </Text>
+            </AboutText>
+          </Content>
+        </div>
+
+        <div className="Section">
+          <Content>
+            <AboutText>
+              <Text>
+              {/* As a leader you must be Articulate and proactive. */}
               </Text>
             </AboutText>
           </Content>
