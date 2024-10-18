@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 This website was is being built for the the African youth leadership community.
-This website being built with REACT.
+This website being built plane REACT.
 
 Alot of changes will still be made to this website.
 i am just waiting for feedback on the current UI update.
