@@ -5,6 +5,9 @@ This website being built plane REACT.
 Alot of changes will still be made to this website.
 i am just waiting for feedback on the current UI update.
 
+i have already started making changes to this website with Chakra UI.
+The form and the Services section was done with chakra UI
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
