@@ -90,14 +90,16 @@
 
 // export default Services;
 
-import { Heading , Container } from "@chakra-ui/react"
+import { Heading , Container, Box } from "@chakra-ui/react"
 
 const Services = () => {
   return (
     <Container w='full'>
-      <Heading size='md' py={2}>promoting impactful leadership through service and enhancing leadership capital for wealth creation and management. Empowering the youth with soft skills to keep track with the evolving technology and breaking all barriers and enhancing economic growth and development in Africa and globally</Heading>
-      <Heading size='lg' py={2}>To be the leading Pan African Organization/Movement for mentorship, raising standards of leadership globally and fighting political apathy among youths, marginalization and raising awareness for African youths involvement in politics, encouraging them to register and vote during elections, run for office, support youth friendly policies and encourage youth participation in governance. And to breach the gap of impactful leadership and leadership deficit globally. Youth empowerment through leadership skills and mentorship required for effective leadership, economic growth and development.</Heading>
-      <Heading size='sm' py={2}>s a true leader is crucial to note that you’re elected or appointed to serve and not to be served. Only when that is achieved we can now task the followers to be law abiding citizens and to respect constituted Authority.</Heading>
+      <Box>
+        <Heading size='md' py={2}>promoting impactful leadership through service and enhancing leadership capital for wealth creation and management. Empowering the youth with soft skills to keep track with the evolving technology and breaking all barriers and enhancing economic growth and development in Africa and globally</Heading>
+        <Heading size='md' py={2}>To be the leading Pan African Organization/Movement for mentorship, raising standards of leadership globally and fighting political apathy among youths, marginalization and raising awareness for African youths involvement in politics, encouraging them to register and vote during elections, run for office, support youth friendly policies and encourage youth participation in governance. And to breach the gap of impactful leadership and leadership deficit globally. Youth empowerment through leadership skills and mentorship required for effective leadership, economic growth and development.</Heading>
+        <Heading size='md' py={2}>A true leader is crucial to note that you’re elected or appointed to serve and not to be served. Only when that is achieved we can now task the followers to be law abiding citizens and to respect constituted Authority.</Heading>
+      </Box>
     </Container>
   )
 }
